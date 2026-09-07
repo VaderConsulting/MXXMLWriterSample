@@ -1,6 +1,6 @@
 # MXXMLWriterSample
 
-VB6 working copy of `MXXMLWriterSample` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: MXXMLWriterSample. Output: `MXXMLWriterSample.exe`. `VersionCompanyName`: Microsoft Corp..
+Microsoft Corp. VB6 SAX writer sample (`MXXMLWriterSample.exe`) demonstrating `MXXMLWriter` with `SAXXMLReader`: Try Demo builds XML via manual SAX events; Try File re-serializes an input XML URL into the result pane. Open `MXXMLWriterSample.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
