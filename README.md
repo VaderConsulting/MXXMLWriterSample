@@ -21,7 +21,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/MXXMLWriterSample`.
+Working copy from my Historical Dev folder `VB/MXXMLWriterSample`.
 Company names in `.vbp` files: Microsoft Corp..
 Third-party attribution: Microsoft. See `THIRD_PARTY_NOTICES.md`.
 
